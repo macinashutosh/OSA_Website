@@ -351,6 +351,9 @@
 .lni-envelope:before {
   content: "\e96a";
 }
+.lni-envelope-filled:before {
+  content: "\e96a";
+}
 .lni-eraser:before {
   content: "\e96b";
 }
